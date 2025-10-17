@@ -16,7 +16,6 @@ Technologies Used:
 
 Figma for UI/UX design
 
-[Optional: mention if you plan to implement it with HTML/CSS/JS or any framework]
 
 Project Goal:
 The aim of this project is to create a visually appealing and functional interface for book lovers, focusing on clarity, usability, and a smooth user experience.
